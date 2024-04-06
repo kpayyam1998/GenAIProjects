@@ -10,4 +10,4 @@
     Task:
         Upload an image, gemni-pro-vision has extrordinary OCR functionality
         converting image to byts
-        then passing the prompt to get result 
+        then passing the prompt to get result  with help of gemni-pro vision (internelly OCR functionlity will happen)
