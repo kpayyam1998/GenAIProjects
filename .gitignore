@@ -2,3 +2,4 @@ env
 
 # hided our gemni api key
 Gemni/InvoiceExtractor/.env
+Gemni/YTTranscriber/.env
