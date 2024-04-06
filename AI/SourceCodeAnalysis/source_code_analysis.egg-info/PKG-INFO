@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: source-code-analysis
+Version: 0.0.1
+Author: kps
+Author-email: kps@gmail.com
+Requires-Dist: openai==0.28
+Requires-Dist: tiktoken
+Requires-Dist: chromadb==0.4.4
+Requires-Dist: langchain==0.0.249
+Requires-Dist: flask
+Requires-Dist: GitPython
+Requires-Dist: python-dotenv

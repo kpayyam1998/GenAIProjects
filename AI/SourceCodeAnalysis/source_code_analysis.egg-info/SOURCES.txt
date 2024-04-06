@@ -1,0 +1,9 @@
+README.md
+setup.py
+source_code_analysis.egg-info/PKG-INFO
+source_code_analysis.egg-info/SOURCES.txt
+source_code_analysis.egg-info/dependency_links.txt
+source_code_analysis.egg-info/requires.txt
+source_code_analysis.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
