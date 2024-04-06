@@ -20,7 +20,8 @@ genai.configure(api_key=key)
 # Input is what gemni pro vision is going to do 
 def get_gemni_response(input,image,prompt):         # prompt is like my input like image,text etc...
     # loadin gemni model
-    model=genai.GenerativeModel("models/gemni-pro-vision") 
+    # https://github.com/home-assistant/core/pull/105787 If you face any error
+    model=genai.GenerativeModel("models/gemini-pro-vision") 
     response=model.generate_content([input,image[0],prompt]) #Input will be form of list
     return response.text
 
