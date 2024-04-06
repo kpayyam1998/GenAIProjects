@@ -1,7 +1,7 @@
 """
     This is main page which will intract with helper.py and store_index.py as well
 """
-
+import onnxruntime
 import os
 from dotenv import load_dotenv
 
@@ -58,4 +58,5 @@ def chat():
     return str(result['answer'])        
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8083, debug=True)
+    app.run(port=5500,debug=True) 
+    # app.run(host='0.0.0.0', port=8083, debug=True)
