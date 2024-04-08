@@ -8,3 +8,13 @@
     OPENAI_API_KEY=*************************
 
 ### This project is help to understand our python code. we have to pass the file which we want to know deeply it will give clear explanation 
+
+Importent lib
+openai==0.28
+tiktoken 
+chromadb==0.4.4
+langchain==0.0.249
+flask
+GitPython
+python-dotenv
+-e .
