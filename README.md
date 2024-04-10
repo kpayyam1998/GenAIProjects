@@ -8,7 +8,7 @@
 ### OPEN AI Project
   1. Bird name generator
   2. Source code analysis
-  3. Telegram bot - https://github.com/kpayyam1998/Telegram-Bot-using-GenAI
+  3. Telegram bot - [link](https://github.com/kpayyam1998/Telegram-Bot-using-GenAI)
 ## Gemini AI
   1. Invoice Extractor
   2. YouTube Transcripter
